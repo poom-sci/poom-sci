@@ -42,13 +42,13 @@
 
 <H2>Tools</H2>
 
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge" />
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge" />
 
-<img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?logo=Adobe Lightroom&logoColor=white&style=for-the-badge" />
+<img alt="Adobe Lightroom" src="https://img.shields.io/badge/Lightroom-31A8FF?logo=Adobe Lightroom&logoColor=white&style=for-the-badge" />
 
-<img alt="Stack Overflow" src="https://img.shields.io/badge/Stack Overflow-F58025?logo=Stack Overflow&logoColor=white&style=for-the-badge" />
+<img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow-F58025?logo=Stack Overflow&logoColor=white&style=for-the-badge" />
 
-<img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft Excel-217346?logo=Microsoft Excel&logoColor=white&style=for-the-badge" />
+<img alt="Microsoft Excel" src="https://img.shields.io/badge/Excel-217346?logo=Microsoft Excel&logoColor=white&style=for-the-badge" />
 
 <br><br>
 
