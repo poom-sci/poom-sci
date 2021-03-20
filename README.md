@@ -1,7 +1,8 @@
 # 👋 Hi, This is Poom Suchao-in's Profile
-
-🌎 Personal website: https://my-web-89e77.web.app/ <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="15" height="15"> Linkined : https://www.linkedin.com/in/poom-sci/
+<ul>
+<li>🌎 Personal website: https://my-web-89e77.web.app/ <br>
+<li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="15" height="15"> Linkined : https://www.linkedin.com/in/poom-sci/
+</ul>
 
 <br>
 
