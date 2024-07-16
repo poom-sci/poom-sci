@@ -1,6 +1,6 @@
 # 👋 Hi, This is Poom Suchao-in's Profile
 <ul>
-<li>🌎 Personal website: https://poom-sci.vercel.app/ <br>
+<li>🌎 Personal website: <a href="https://poom-sci.notion.site/Poom-Suchao-in-106e01bb3ead40e6b0805d0bc54bf890?pvs=4">go to profile</a> <br>
 <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="15" height="15"> Linkined : https://www.linkedin.com/in/poom-sci/
 </ul>
 
